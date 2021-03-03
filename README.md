@@ -1,1 +1,1 @@
-# vpp
+# VPP .deb files
